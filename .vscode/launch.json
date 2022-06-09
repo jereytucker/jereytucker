@@ -20,6 +20,7 @@
       "justMyCode": true
     },
     {
+      "type": "bashdb",
       "request": "launch",
       "name": "Bash-Debug (select script from list of sh files)",
       "cwd": "${workspaceFolder}",
